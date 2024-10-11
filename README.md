@@ -110,15 +110,17 @@ Database of public audits made by ABDK Consulting
 | Herodotus            | 2023             | 1. [Herodotus](https://github.com/abdk-consulting/audits/blob/main/herodotus/ABDK_Herodotus_Herodotus_v_3_0.pdf)                                                                       |
 | StarkWare            |      2023        | 1. [Perpetual_V3.1](https://github.com/abdk-consulting/audits/blob/main/starkware/ABDK_StarkWare_Perpetual_V3_1_v_1_0.pdf) 2. [Perpetual_V3.2](https://github.com/abdk-consulting/audits/blob/main/starkware/ABDK_StarkWare_Perpetual__V3_2_v_1_0.pdf)                                                                                                                                                                                          |
 
+ 
  **Combined** 
 
-|        Company       | Year             | Report Link                                                                                                                                                                            |                                                        
+| Company              | Year             | Report Link                                                                                                                                                                            |                 
 |----------------------|------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-                                                                                                                                                                
-| Mystiko              | 2023             | 1. [Solidity ZoKrates](https://github.com/abdk-consulting/audits/blob/main/mystiko/ABDK_Mystiko_Solidity_ZoKrates_v_2_0.pdf)                                                           |                                                                                                                                                                  
-| Railgun              | 2021             | 1. [Smart contracts and circuits](https://github.com/abdk-consulting/audits/blob/main/railgun/ABDK_Railgun_CircomSolidity_v_2_0.pdf)                                                   |                                                                                                                                                                                                                                                                                                                   |
-| zkLend               | 2023             | 1. [Core](https://github.com/abdk-consulting/audits/blob/main/zklend/ABDK_zkLend_zkLendCore_v_1_0.pdf)                                                                                 |                                                                                                                                                                 
-| zkSync               | 2020             | 1. [ZKSync protocol](https://github.com/abdk-consulting/audits/blob/main/zksync/zksync-1.0-audit%20June%202020.pdf) 2. [NFT](https://github.com/abdk-consulting/audits/blob/main/zksync/ABDK_ZkSync_SolidityRust_v_1_0.pdf) 3. [Zklink circuits and smart contracts](https://github.com/abdk-consulting/audits/blob/main/zklink/ABDK_zkLink_CircuitsSmartContracts_v_6_0.pdf)           | 
+| Mystiko              | 2023             | 1. [Solidity ZoKrates](https://github.com/abdk-consulting/audits/blob/main/mystiko/ABDK_Mystiko_Solidity_ZoKrates_v_2_0.pdf)                                                           |
+| Railgun              | 2021             | 1. [Core](https://github.com/abdk-consulting/audits/blob/main/zklend/ABDK_zkLend_zkLendCore_v_1_0.pdf)                                                                                 |
+| zkSync               | 2020             | 1. [ZKSync protocol](https://github.com/abdk-consulting/audits/blob/main/zksync/zksync-1.0-audit%20June%202020.pdf) 2. [NFT](https://github.com/abdk-consulting/audits/blob/main/zksync/ABDK_ZkSync_SolidityRust_v_1_0.pdf) 
+3. [Zklink circuits and smart contracts](https://github.com/abdk-consulting/audits/blob/main/zklink/ABDK_zkLink_CircuitsSmartContracts_v_6_0.pdf)                                                                                      | 
+
+
 
 **Other**
 
