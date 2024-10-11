@@ -105,10 +105,10 @@ Database of public audits made by ABDK Consulting
 
 **Cairo**
 
-| Company              | Year             | Report Link                                                                                                                                                                            |                                                        
+| Company              | Year             | Report Link                                                                                                                                                                            |                 
 |----------------------|------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Herodotus            | 2023             | 1. [Herodotus](https://github.com/abdk-consulting/audits/blob/main/herodotus/ABDK_Herodotus_Herodotus_v_3_0.pdf)                                                                       |
-| StarkWare            |      2023        | 1. [Perpetual_V3.1](https://github.com/abdk-consulting/audits/blob/main/starkware/ABDK_StarkWare_Perpetual_V3_1_v_1_0.pdf) 2. [Perpetual_V3.2](https://github.com/abdk-consulting/audits/blob/main/starkware/ABDK_StarkWare_Perpetual__V3_2_v_1_0.pdf)                                                                                                                                            |
+| StarkWare            |      2023        | 1. [Perpetual_V3.1](https://github.com/abdk-consulting/audits/blob/main/starkware/ABDK_StarkWare_Perpetual_V3_1_v_1_0.pdf) 2. [Perpetual_V3.2](https://github.com/abdk-consulting/audits/blob/main/starkware/ABDK_StarkWare_Perpetual__V3_2_v_1_0.pdf)                                                                                                                                                                                          |
 
  **Combined** 
 
