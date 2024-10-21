@@ -123,9 +123,10 @@ Database of public audits made by ABDK Consulting
 
 
 
-**Other**
+**Cryptography**
 
 | Company              | Year             | Report Link                                                                                                                                                                            |                                                        
 |----------------------|------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | equihashnano         | 2021             | 1. [Research report](https://github.com/abdk-consulting/audits/blob/main/equihashnano/ABDK-Nano-Equihash-Report.pdf)                                                                   |                                                                                                        
 | blockswap            | 2023             | 1. [CIP cryptography audit](https://github.com/abdk-consulting/audits/blob/main/blockswap/ABDK_Blockswap_CIP_v_2_0.pdf) 2. [RPBS Cryptography](https://github.com/abdk-consulting/audits/blob/main/blockswap/ABDK_Blockswap_RPBS_v_3_0.pdf)                                                                                                                                                       |
+| Tornado              | 2019             | 1. [Tornado privacy solution](https://github.com/abdk-consulting/audits/blob/main/tornado/Tornado_cryptographic_review.pdf)                                                                                                                                                    |
