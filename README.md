@@ -2,7 +2,7 @@
 Database of public audits made by ABDK Consulting
 
 
- **Smart contracts**
+ ## Smart contracts 
 
 | Company              | Year             | Report Link                                                                                                                                                                            |                                                        
 |----------------------|------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| 
@@ -91,7 +91,7 @@ Database of public audits made by ABDK Consulting
 | ZkSwap               |    2021-2024     | 1. [ZkSwap protocol](https://github.com/abdk-consulting/audits/blob/main/zkswap/ABDK_ZkSwap_Solidity_v.3.0.pdf) 2. [ZKSwap V3](https://github.com/abdk-consulting/audits/blob/main/zkswap/ABDK_ZKSwap_V3_v_1_0.pdf) 3. [ZkSwap Protocol](https://github.com/abdk-consulting/audits/blob/main/zkswap/ABDK_ZkSwap_Solidity_v.3.0.pdf)                                       |
 
 
- **ZK circuits**
+ ## ZK circuits
 
 | Company              | Year             | Report Link                                                                                                                                                                            |                                                        
 |----------------------|------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -101,19 +101,13 @@ Database of public audits made by ABDK Consulting
 | Tornado              | 2019-2020        | 1. [Farm circuits](https://github.com/abdk-consulting/audits/blob/main/tornado/TornadoCash_anonymity_mining_first_audit_ABDK.pdf) 2. [Farm circuits final version](https://github.com/abdk-consulting/audits/blob/main/tornado/TornadoCash_anonymity_mining_first_audit_ABDK.pdf) 3. [Tornado Core](https://github.com/abdk-consulting/audits/blob/main/tornado/Tornado_circuit_audit.pdf)                                    |                                                                                                                                                                
 | Zeropool             | 2021-2022        | 1. [Fawkes crypto](https://github.com/abdk-consulting/audits/blob/main/zeropool/ABDK_Zeropool_fawkes_crypto_v3_0.pdf) 2. [Libzeropool](https://github.com/abdk-consulting/audits/blob/main/zeropool/ABDK_Zeropool_Libzeropool_v3_0.pdf) 3. [Libzeropool update](https://github.com/abdk-consulting/audits/blob/main/zeropool/ABDK_Zeropool_Libzeropool_v3_0.pdf)                                 |
 | zkLink              | 2023       | 1. [Zklink circuit](https://github.com/abdk-consulting/audits/blob/main/zklink/ABDK_zkLink_CircuitsPhaseII_v_1_0.pdf)                                 |
-| ZkSwap              | 2021      | 1. [Core v0.9](https://github.com/abdk-consulting/audits/blob/main/zkswap/ABDK_ZkSwap_Phase2_0_9_8__Rust_v_1_0.pdf)                                |
-                                                                                                                                                                                   
-
-**Cairo**
-
-| Company              | Year             | Report Link                                                                                                                                                                            |                 
-|----------------------|------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ZkSwap              | 2021      | 1. [Core v0.9](https://github.com/abdk-consulting/audits/blob/main/zkswap/ABDK_ZkSwap_Phase2_0_9_8__Rust_v_1_0.pdf)                                |                                                                                                                                                       |                 
 | Herodotus            | 2023             | 1. [Herodotus](https://github.com/abdk-consulting/audits/blob/main/herodotus/ABDK_Herodotus_Herodotus_v_3_0.pdf)                                                                       |
 | StarkWare            |      2023        | 1. [Perpetual_V3.1](https://github.com/abdk-consulting/audits/blob/main/starkware/ABDK_StarkWare_Perpetual_V3_1_v_1_0.pdf) 2. [Perpetual_V3.2](https://github.com/abdk-consulting/audits/blob/main/starkware/ABDK_StarkWare_Perpetual__V3_2_v_1_0.pdf)                                                                                                                                                                                          |
 | zkLend               |      2023        | 1. [zkLend Core](https://github.com/abdk-consulting/audits/blob/main/zklend/ABDK_zkLend_zkLendCore_v_1_0.pdf)                                                                  |
 
  
- **Combined** 
+ ## Combined 
 
 | Company              | Year             | Report Link                                                                                                                                                                            |                 
 |----------------------|------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -123,7 +117,7 @@ Database of public audits made by ABDK Consulting
 
 
 
-**Cryptography**
+## Cryptography 
 
 | Company              | Year             | Report Link                                                                                                                                                                            |                                                        
 |----------------------|------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
