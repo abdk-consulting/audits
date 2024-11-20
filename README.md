@@ -107,8 +107,7 @@ Database of public audits made by ABDK Consulting
 | ZkSwap              | 2021      | 1. [Core v0.9](https://github.com/abdk-consulting/audits/blob/main/zkswap/ABDK_ZkSwap_Phase2_0_9_8__Rust_v_1_0.pdf)                                |                                                                                                                                                       |                 
 | Herodotus            | 2023             | 1. [Herodotus](https://github.com/abdk-consulting/audits/blob/main/herodotus/ABDK_Herodotus_Herodotus_v_3_0.pdf)                                                                       |
 | StarkWare            |      2023        | 1. [Perpetual_V3.1](https://github.com/abdk-consulting/audits/blob/main/starkware/ABDK_StarkWare_Perpetual_V3_1_v_1_0.pdf) 2. [Perpetual_V3.2](https://github.com/abdk-consulting/audits/blob/main/starkware/ABDK_StarkWare_Perpetual__V3_2_v_1_0.pdf)                                                                                                                                                                                          |
-| zkLend               |      2023        | 1. [zkLend Core](https://github.com/abdk-consulting/audits/blob/main/zklend/ABDK_zkLend_zkLendCore_v_1_0.pdf)                                                                  |
-
+| zkLend               |      2023        | 1. [zkLend Core](https://github.com/abdk-consulting/audits/blob/main/zklend/ABDK_zkLend_zkLendCore_v_1_0.pdf)        |
  
  ## Combined 
 
